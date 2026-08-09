@@ -3,3 +3,6 @@ brca_phospho.csv
 brca_acetylproteomics.csv
 brca_proteomics.csv
 brca_cnv.csv
+brca_workspace_final.RData
+brca_workspace.RData
+*.RData
